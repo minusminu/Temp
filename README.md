@@ -7,5 +7,5 @@ getting minus'
 
 
 ```C++
-cout << "minuminu"
+cout << "minuminu" << endl;
 ```
