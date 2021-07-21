@@ -9,3 +9,5 @@ getting minus'
 ```C++
 cout << "minuminu" << endl;
 ```
+
+![gettimg minus'?](./image/image.jpg)
