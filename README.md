@@ -1,15 +1,15 @@
-minus
+M1NUS
 ===
-getting minus'
+**PR0J3CT M1NUS**
 
-# for minus
-- minu
+# FOR M1NUS
+### - minu
 
 
 ```C++
-cout << "minuminu" << endl;
+cout << "m1nus" << endl;
 ```
 
-![gettimg minus'?](./image/image.jpg)
+![M](./image/image.jpg)
 
-[gettimg minus'?](https://youtu.be/AlXfbVpDUdo)
+**[W4NN4 M1NUS?](https://youtu.be/AlXfbVpDUdo)**
