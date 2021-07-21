@@ -6,6 +6,6 @@ getting minus'
 - minu
 
 
-```python
-print("m")
+```C++
+cout << "minuminu"
 ```
