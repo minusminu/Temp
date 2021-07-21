@@ -1,1 +1,1 @@
-# image file fir minus
+# image file for minus
